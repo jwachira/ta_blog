@@ -27,6 +27,8 @@ in the User's Guide:
 /*#017BC3
 #2361A1*/
 /*#14568A*/
+/*#EFF6E8*/
+/*gray*/
 @import url(http://fonts.googleapis.com/css?family=Droid+Sans:regular,bold);
 @import url(http://fonts.googleapis.com/css?family=Droid+Serif:regular);
 .custom{font-family: 'Droid Sans',Verdana, sans-serif;}
@@ -51,9 +53,9 @@ in the User's Guide:
 body.custom { background-color: #69BADE; margin-bottom:3em; }
 .custom #container { }
 	.custom #page { background: #fff; margin-top:2.5em; padding:0em 1.5em 1.5em 1.5em; border-width:1px;border-style:solid;border-color:#CCC #999 #999 #CCC;-moz-border-radius:10px;-webkit-border-radius:10px;border-radius:10px;}
-		.custom #header { padding-top: 0; border: none; background-color:#EDEDE5 !important;}
-		  .custom #logo {color:#2361A1; font-family: 'Droid Sans',Verdana, sans-serif;}
-		    .custom #tagline{color:#8EC641;}
+		.custom #header { padding-top: 0; border: none; background-color:#EFF6E8 !important;}
+		  .custom #logo {color:#518600 !important; font-family: 'Droid Sans',Verdana, sans-serif;}
+		    .custom #tagline{color:#888;}
 		.custom ul.menu {margin-left: -1.6em;margin-right:-1.6em;margin-top:-0.1em; *height: 25px;padding: 3px 0 0 9px; border: 6px solid #8EC641;; background-color: #8EC641; -moz-border-radius-topleft:4px;-moz-border-radius-topright:4px;-webkit-border-top-left-radius:4px;-webkit-border-top-right-radius:4px; }
 			.custom ul.menu li { margin-bottom: 3px; margin-right: 1px; margin-left:15px; background: none; border: none; }
 			.custom ul.menu li.current, .custom ul.menu li.current-cat { padding-bottom: 0; }
