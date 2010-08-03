@@ -59,9 +59,13 @@ body.custom { background-color: #69BADE; margin-bottom:3em; }
 		.custom ul.menu {margin-left: -1.6em;margin-right:-1.6em;margin-top:-0.1em; *height: 25px;padding: 3px 0 0 9px; border: 6px solid #8EC641;; background-color: #8EC641; -moz-border-radius-topleft:4px;-moz-border-radius-topright:4px;-webkit-border-top-left-radius:4px;-webkit-border-top-right-radius:4px; }
 			.custom ul.menu li { margin-bottom: 3px; margin-right: 1px; margin-left:15px; background: none; border: none; }
 			.custom ul.menu li.current, .custom ul.menu li.current-cat { padding-bottom: 0; }
-				.custom ul.menu li.tab a {text-shadow: 1px 1px 1px #14568a;border-style:none;-moz-border-radius:4px; -webkit-border-radius:4px;padding: 0.5em 0.6em 0.4em 0.6em; color: #b9dbf0 !important; background:#8EC641;font-weight: bold; letter-spacing: 1px; }
+				.custom ul.menu li.tab a {text-shadow: 1px 1px 1px #14568a;border-style:none;-moz-border-radius:4px; -webkit-border-radius:4px;padding: 0.5em 0.6em 0.4em 0.6em; color: #FFF !important; background:#8EC641;font-weight: bold; letter-spacing: 1px; }
 				.custom ul.menu li.tab a:hover {text-shadow: 1px 1px 1px #ccc; color: #14568a !important; background: #e3f2f9; text-decoration: none; }
 				.custom ul.menu li.current a { text-shadow: none; color: #000 !important; background: #FFFFFF !important; }
 				.custom ul.menu li.current a:hover { color: #003974 !important; background: #e3f2f9; }
+	   	.custom ul.menu li.rss {margin-top:0px;margin-bottom:-1px;}
+  		.custom ul.menu li.rss a, .custom ul.menu li.rss a:visited {padding:0.5em;-moz-box-shadow:0 0 15px #00b4ff;box-shadow: 0 0 15px #00b4ff;-webkit-box-shadow:0 0 15px #00b4ff;letter-spacing:0.5px; font-weight: bold; color: #14568a; background: #d3e6f2 url(http://feeds.feedburner.com/~fc/paulstamatiou?bg=d3e6f2&fg=000000a&anim=0) no-repeat 94% 4px; padding-right: 152px;margin-right:50px;-moz-border-radius:5px;border-radius:5px;-webkit-border-radius:5px;}/*width:20px;height:20px;margin-top:-5px;margin-bottom:-5px;margin-right:5px;*/
+  		  .custom ul.menu li.rss a:hover {-moz-box-shadow:0 0 50px #f82afa;box-shadow: 0 0 50px #f82afa;-webkit-box-shadow:0 0 50px #f82afa; color: #003974; background: #e3f2f9 url(http://feeds.feedburner.com/~fc/paulstamatiou?bg=406099&fg=ffffff&anim=0) no-repeat 94% 4px; text-decoration: none; }
+  	
 .custom #content {background:#fff; width:600px;overflow:hidden;}
 .custom #sidebars {background:#fff; width:300px;overflow:hidden; font-family: 'Droid Sans',Verdana, sans-serif; margin-top:10px;}
