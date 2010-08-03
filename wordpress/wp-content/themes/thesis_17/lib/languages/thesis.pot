@@ -1434,7 +1434,7 @@ msgstr ""
 msgid "Oooh, Exciting!"
 msgstr ""
 
-msgid "Get smart with the <a href=\"%s\">Thesis WordPress Theme</a> from DIYthemes."
+msgid "(c) Copyright 2009 - 2010 <a href="http://www.siteforcare.com">SiteforCare</a>All Rights Reserved."
 msgstr ""
 
 msgid "By Category:"

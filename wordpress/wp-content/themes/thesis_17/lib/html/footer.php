@@ -24,5 +24,5 @@ function thesis_footer() {
  * Display default Thesis attribution.
  */
 function thesis_attribution() {
-	echo "\t\t<p>" . sprintf(__('Get smart with the <a href="%s">Thesis WordPress Theme</a> from DIYthemes.', 'thesis'), 'http://diythemes.com/thesis/') . "</p>\n";
+	echo "\t\t<p>" . sprintf(__('Copyright © 2009-2010<a href="%s">SiteforCare.com</a> ', ''), 'http://www.siteforcare.com') . "</p>\n";
 }
