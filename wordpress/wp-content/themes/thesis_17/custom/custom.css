@@ -25,12 +25,15 @@ in the User's Guide:
 	http://diythemes.com/thesis/rtfm/customizing-thesis-with-customcss/
 */
 
-.custom ul#tabs {border-bottom:none; border-left:none; background:#FFFFFF;}
-.custom ul#tabs li {margin-bottom:0; border:none; background:none}
-.custom ul#tabs li.current_page_item, .custom ul#tabs li.current-cat {padding-bottom:0; background:#FFFFFF}
-.custom ul#tabs li.rss {}
-.custom ul#tabs li a {}
-.custom ul#tabs li a:hover {text-decoration:none; background:#FFFFFF}
-.custom ul#tabs li.current_page_item a, .custom ul#tabs li.current-cat a {}
-.custom ul#tabs li.current_page_item a:hover {text-decoration:none; background:#FFFFFF;}
-.custom ul#tabs li.current-cat a:hover {text-decoration:none; background:#FFFFFF}
+.custom {
+  background-color: rgb(105, 186, 222);
+}
+.custom #header { border-bottom:none;
+height:150px;
+padding-top:0;
+padding-bottom:0;
+background: #EDEDE5;}
+
+.custom #header #logo { display:none; }
+
+.custom #header #tagline { display:none; }
