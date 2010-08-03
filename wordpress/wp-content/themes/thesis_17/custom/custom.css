@@ -33,15 +33,15 @@ in the User's Guide:
 .custom div#page div#header{padding:25px 10px 15px 25px;/*width:1024px;margin-left:-15px;*/margin-left:-1.5em;margin-right:-1.5em;background:#e3f2f9;}
  
 
-body.custom { background: #eee; margin-bottom:3em; }
+body.custom { background-color: #69BADE; margin-bottom:3em; }
 .custom #container { }
 	.custom #page { background: #fff; margin-top:2.5em; padding:0em 1.5em 1.5em 1.5em; border-width:1px;border-style:solid;border-color:#CCC #999 #999 #CCC;-moz-border-radius:10px;-webkit-border-radius:10px;border-radius:10px;}
-		.custom #header { padding-top: 0; border: none; }
+		.custom #header { padding-top: 0; border: none; background:#EDEDE5;}
 		.custom #header .social_icon {width:24px;height:24px;}
 		.custom .search_form { }
 			.custom .search_form input { font-size: 1.2em; line-height: 1em; width: 100%; padding: 0.308em; }
 			.custom .search_form input:focus { background: #e3f2f9; }
-		.custom ul.menu {margin-left: -1.6em;margin-right:-1.6em;margin-top:-0.1em; *height: 25px;padding: 3px 0 0 9px; border: 6px solid #14568a; background: #14568A; -moz-border-radius-topleft:4px;-moz-border-radius-topright:4px;-webkit-border-top-left-radius:4px;-webkit-border-top-right-radius:4px; }
+		.custom ul.menu {margin-left: -1.6em;margin-right:-1.6em;margin-top:-0.1em; *height: 25px;padding: 3px 0 0 9px; border: 6px solid #14568a; background-color: #8EC641; -moz-border-radius-topleft:4px;-moz-border-radius-topright:4px;-webkit-border-top-left-radius:4px;-webkit-border-top-right-radius:4px; }
 			.custom ul.menu li { margin-bottom: 3px; margin-right: 1px; margin-left:15px; background: none; border: none; }
 			.custom ul.menu li.current, .custom ul.menu li.current-cat { padding-bottom: 0; }
 				.custom ul.menu li.tab a {text-shadow: 1px 1px 1px #14568a;border-style:none;-moz-border-radius:4px; -webkit-border-radius:4px;padding: 0.5em 0.6em 0.4em 0.6em; color: #b9dbf0 !important; background: #14568A;font-weight: bold; letter-spacing: 1px; }
