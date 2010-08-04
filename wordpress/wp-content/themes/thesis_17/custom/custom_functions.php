@@ -24,7 +24,7 @@
 function topnav_menu() {
 ?>
 <ul class="menu"> 
-  <li class="tab tab-home current"><a href="http://www.siteforcare.com">Home</a></li> 
+  <li class="tab tab-home current"><a href="http://blog.siteforcare.com">Home</a></li> 
   <li class="tab tab-1"><a href="http://www.siteforcare.com/daycare-providers" title="About">Find Daycare</a></li> 
   <li class="tab tab-2"><a href="http://www.siteforcare.com/register" title="Advertise">List you Daycare</a></li> 
   <li class="tab tab-3"><a href="http://www.siteforcare.com/about" title="Archives">About Us</a></li> 
@@ -32,6 +32,7 @@ function topnav_menu() {
 <?php
 }
 add_action('thesis_hook_before_header', 'topnav_menu');
+remove_action('thesis_hook_before_header', 'thesis_nav_menu');
 
 function custom_bookmark_links() {
 	global $post;
