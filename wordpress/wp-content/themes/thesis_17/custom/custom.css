@@ -24,11 +24,7 @@ More information about styling your Thesis installation using this file can be f
 in the User's Guide:
 	http://diythemes.com/thesis/rtfm/customizing-thesis-with-customcss/
 */
-/*#017BC3
-#2361A1*/
-/*#14568A*/
-/*#EFF6E8*/
-/*gray*/
+
 @import url(http://fonts.googleapis.com/css?family=Droid+Sans:regular,bold);
 @import url(http://fonts.googleapis.com/css?family=Droid+Serif:regular);
 .custom{font-family: 'Droid Sans',Verdana, sans-serif;}
@@ -36,7 +32,7 @@ in the User's Guide:
 .custom div#content div.center small{font-size:0.85em;color:#444;}
 .custom div#content div.center img{/*width:620px;*/-ms-interpolation-mode:bicubic;}
 .custom div#content_box { border:none; }
-.custom div#content div.format_text p {  }
+.custom div#content div.format_text p { text-align:justify; }
 .custom div#content h4{font-size:1.25em;margin: 10px 0 15px 0;color:#222;border-bottom:1px solid #ccc;text-shadow: 1px 1px 0 #ddd;}
 .custom h1{color:#14568a;font-family:'Droid Sans',Verdana,sans-serif;text-shadow: 1px 1px 1px #999;}
 .custom div.sidebar h3{font-family:'Droid Sans Bold',Verdana,sans-serif;font-size:1.2em;color:#333;font-variant:normal;letter-spacing:0;}
@@ -57,7 +53,7 @@ body.custom { background-color: #69BADE; margin-bottom:3em; }
 		  .custom #logo a {color:#518600 !important; font-family: 'Droid Sans',Verdana, sans-serif;}
 		    .custom #tagline{color:#888;}
 		.custom ul.menu {margin-left: -1.6em;margin-right:-1.6em;margin-top:-0.1em; *height: 25px;padding: 3px 0 0 9px; border: 6px solid #8EC641;; background-color: #8EC641; -moz-border-radius-topleft:4px;-moz-border-radius-topright:4px;-webkit-border-top-left-radius:4px;-webkit-border-top-right-radius:4px; }
-			.custom ul.menu li { margin-bottom: 3px; margin-right: 1px; margin-left:15px; background: none; border: none; }
+			.custom ul.menu li { margin-bottom: 2px; margin-right: 1px; margin-left:15px; background: none; border: none; }
 			.custom ul.menu li.current, .custom ul.menu li.current-cat { padding-bottom: 0; }
 				.custom ul.menu li.tab a {border-style:none;font-size:14px !important; color: #FFF !important; background:#8EC641;font-weight: bold;}
 				.custom ul.menu li.tab a:hover {text-shadow: 1px 1px 1px #ccc; color: #14568a !important; background: #FFF; text-decoration: none; }
@@ -68,3 +64,13 @@ body.custom { background-color: #69BADE; margin-bottom:3em; }
   	
 .custom #content {background:#fff; width:600px;overflow:hidden;}
 .custom #sidebars {background:#fff; width:300px;overflow:hidden; font-family: 'Droid Sans',Verdana, sans-serif; margin-top:10px;}
+/*bracket starts here*/
+.custom p.to_comments span.bracket {color:#14568a;}
+ 
+    .custom div#comments div#respond div#respond_intro p { color:#000; }
+    .custom #commentform { border:none; }
+        .custom #commentform span.allowed { border:none; }
+.custom #footer {margin-left:-1.5em;margin-right:-1.5em;}
+ 
+.custom a { color: #14568a; outline:none; }
+.custom a:hover { background:#e3f2f9; }
