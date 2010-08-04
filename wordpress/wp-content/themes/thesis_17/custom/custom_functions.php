@@ -23,10 +23,11 @@
 /* Links for top menu will need to be manually added here, since this menu isn't supported by Thesis */
 function topnav_menu() {
 ?>
-<ul id="topnav">
-<li><a href="http://blog.siteforcare.com">Home</a></li>
-<li><a href="http://www.siteforcare.com/daycare-providers">Find Daycare Provider</a></li>
-<li><a href="http://www.siteforcare.com/register">List your Daycare</a></li>
+<ul class="menu"> 
+  <li class="tab tab-home current"><a href="http://www.siteforcare.com">Home</a></li> 
+  <li class="tab tab-1"><a href="http://www.siteforcare.com/daycare-providers" title="About">Find Daycare</a></li> 
+  <li class="tab tab-2"><a href="http://www.siteforcare.com/register" title="Advertise">List you Daycare</a></li> 
+  <li class="tab tab-3"><a href="http://www.siteforcare.com/about" title="Archives">About Us</a></li> 
 </ul>
 <?php
 }
