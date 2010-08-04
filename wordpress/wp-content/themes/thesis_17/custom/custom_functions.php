@@ -19,6 +19,18 @@
  * @since 1.0
  * @global object $post
 */
+/* Add the top navigation menu */
+/* Links for top menu will need to be manually added here, since this menu isn't supported by Thesis */
+function topnav_menu() {
+?>
+<ul id="topnav">
+<li><a href="http://blog.siteforcare.com">Home</a></li>
+<li><a href="http://www.siteforcare.com/daycare-providers">Find Daycare Provider</a></li>
+<li><a href="http://www.siteforcare.com/register">List your Daycare</a></li>
+</ul>
+<?php
+}
+add_action('thesis_hook_before_header', 'topnav_menu');
 
 function custom_bookmark_links() {
 	global $post;
