@@ -1,0 +1,157 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Breeze 1.0\n"
+"Report-Msgid-Bugs-To: http://themeforest.net/user/unisphere\n"
+"POT-Creation-Date: 2010-08-11 23:50-0000\n"
+"PO-Revision-Date: 2010-08-30 23:52-0000\n"
+"Last-Translator: UniSphere\n"
+"Language-Team: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Apologies, but the page you requested could not be found. Perhaps searching will help."
+msgstr ""
+
+msgid "<span class=\"published\">Posted on %1$s</span> <span class=\"author\">by %2$s</span>"
+msgstr ""
+
+msgid "<span class=\"post-categories\">Full size is %s pixels</span>"
+msgstr ""
+
+msgid "Link to full-size image"
+msgstr ""
+
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+msgid "<span class=\"meta-nav\">&laquo;</span> Older Comments"
+msgstr ""
+
+msgid "Newer Comments <span class=\"meta-nav\">&raquo;</span>"
+msgstr ""
+
+msgid "search..."
+msgstr ""
+
+msgid "Not Found"
+msgstr ""
+
+msgid "Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post."
+msgstr ""
+
+msgid "Leave a comment"
+msgstr ""
+
+msgid "1 Comment"
+msgstr ""
+
+msgid "% Comments"
+msgstr ""
+
+msgid "Read more &raquo;"
+msgstr ""
+
+msgid "Posted in %s"
+msgstr ""
+
+msgid "Tagged %s"
+msgstr ""
+
+msgid "Nothing Found"
+msgstr ""
+
+msgid "Apologies, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "Related Posts"
+msgstr ""
+
+msgid "About %s"
+msgstr ""
+
+msgid "View all posts by %s"
+msgstr ""
+
+msgid "Tag Archives: %s"
+msgstr ""
+
+msgid "Category Archives: %s"
+msgstr ""
+
+msgid "Author Archives: %s"
+msgstr ""
+
+msgid "Daily Archives: %s"
+msgstr ""
+
+msgid "Monthly Archives: %s"
+msgstr ""
+
+msgid "Yearly Archives: %s"
+msgstr ""
+
+msgid "The Page could not be found"
+msgstr ""
+
+msgid "Attachment: %s"
+msgstr ""
+
+msgid "Search Results for: %s"
+msgstr ""
+
+msgid "Contact Form Submission from %s"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Message"
+msgstr ""
+
+msgid "Subject"
+msgstr ""
+
+msgid "Send Message"
+msgstr ""
+
+msgid "Sending your message..."
+msgstr ""
+
+msgid "view project &raquo;"
+msgstr ""
+
+msgid "browse:"
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "Website"
+msgstr ""
+
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+msgid "%1$s at %2$s"
+msgstr ""
+
+msgid "Pingback:"
+msgstr ""
+
+msgid "Page %CURRENT_PAGE% of %TOTAL_PAGES%"
+msgstr ""
+
+msgid "No tweets were found."
+msgstr ""
+
+msgid "1 Comment to %2$s"
+msgid_plural "%1$s Comments to %2$s"
+msgstr[0] ""
+msgstr[1] ""

@@ -1,0 +1,152 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid "Apologies, but the page you requested could not be found. Perhaps searching will help."
+msgstr "Pedimos desculpa mas a página que procura não foi encontrada. Talvez usar a pesquisa ajude."
+
+msgid "<span class=\"published\">Posted on %1$s</span> <span class=\"author\">by %2$s</span>"
+msgstr "<span class=\"published\">Publicado em %1$s</span> <span class=\"author\">por %2$s</span>"
+
+msgid "<span class=\"post-categories\">Full size is %s pixels</span>"
+msgstr "<span class=\"post-categories\">O tamanho original é de %s pixeis</span>"
+
+msgid "Link to full-size image"
+msgstr "Link para a imagem original"
+
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Este tópico está protegido por palavra-chave. Insira a palavra-chave para ver os comentários."
+
+msgid "<span class=\"meta-nav\">&laquo;</span> Older Comments"
+msgstr "<span class=\"meta-nav\">&laquo;</span> Comentários Antigos"
+
+msgid "Newer Comments <span class=\"meta-nav\">&raquo;</span>"
+msgstr "Comentários Recentes <span class=\"meta-nav\">&raquo;</span>"
+
+msgid "search..."
+msgstr "pesquisar..."
+
+msgid "Not Found"
+msgstr "Não Encontrado"
+
+msgid "Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post."
+msgstr "Pedimos desculpa mas não foram encontrados resultados para o arquivo que pediu. Talvez usar a pesquisa ajude a encontrar um tópico relacionado."
+
+msgid "Leave a comment"
+msgstr "Deixe um comentário"
+
+msgid "1 Comment"
+msgstr "1 Comentário"
+
+msgid "% Comments"
+msgstr "% Comentários"
+
+msgid "1 Comment to %2$s"
+msgid_plural "%1$s Comments to %2$s"
+msgstr[0] "1 Comentário a %2$s"
+msgstr[1] "%1$s Comentários a %2$s"
+
+msgid "Read more &raquo;"
+msgstr "Ler mais &raquo;"
+
+msgid "Posted in %s"
+msgstr "Publicado em %s"
+
+msgid "Tagged %s"
+msgstr "Etiquetas %s"
+
+msgid "Nothing Found"
+msgstr "Não Encontrado"
+
+msgid "Apologies, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Pedimos desculpa mas a sua pesquisa não retornou resultados. Por favor tente outra vez com algumas palavras diferentes."
+
+msgid "Search"
+msgstr "Pesquisar"
+
+msgid "Related Posts"
+msgstr "Tópicos Relacionados"
+
+msgid "About %s"
+msgstr "Acerca de %s"
+
+msgid "View all posts by %s"
+msgstr "Ver todos os tópicos de %s"
+
+msgid "Tag Archives: %s"
+msgstr "Arquivos por Etiqueta: %s"
+
+msgid "Category Archives: %s"
+msgstr "Arquivos por Categoria: %s"
+
+msgid "Author Archives: %s"
+msgstr "Arquivos por Autor: %s"
+
+msgid "Daily Archives: %s"
+msgstr "Arquivos por Dia: %s"
+
+msgid "Monthly Archives: %s"
+msgstr "Arquivos por Mês: %s"
+
+msgid "Yearly Archives: %s"
+msgstr "Arquivos por Ano: %s"
+
+msgid "The Page could not be found"
+msgstr "A Página não foi encontrada"
+
+msgid "Attachment: %s"
+msgstr "Anexo: %s"
+
+msgid "Search Results for: %s"
+msgstr "Resultados da Pesquisa por: %s"
+
+msgid "Contact Form Submission from %s"
+msgstr "Mensagem de %s a partir do Formulário de Contacto"
+
+msgid "Name"
+msgstr "Nome"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Message"
+msgstr "Mensagem"
+
+msgid "Subject"
+msgstr "Assunto"
+
+msgid "Send Message"
+msgstr "Enviar Mensagem"
+
+msgid "Sending your message..."
+msgstr "A enviar a sua mensagem..."
+
+msgid "view project &raquo;"
+msgstr "ver projecto &raquo;"
+
+msgid "browse:"
+msgstr "filtrar:"
+
+msgid "All"
+msgstr "Todos"
+
+msgid "Website"
+msgstr "Sítio Web"
+
+msgid "Your comment is awaiting moderation."
+msgstr "O seu comentário aguarda moderação."
+
+msgid "%1$s at %2$s"
+msgstr "%1$s às %2$s"
+
+msgid "Pingback:"
+msgstr "Pingback:"
+
+msgid "Page %CURRENT_PAGE% of %TOTAL_PAGES%"
+msgstr "Página %CURRENT_PAGE% de %TOTAL_PAGES%"
+
+msgid "No tweets were found."
+msgstr "Não foram encontrados tweets."

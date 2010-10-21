@@ -1,0 +1,17 @@
+/*
+Theme Name: Breeze
+Theme URI: http://themeforest.net/user/unisphere/
+Description: Breeze is a theme designed with corporate businesses in mind. The theme is also well suited for online portfolios and blogs.
+Author: UniSphere
+Version: 1.9
+Tags: light, dark, yellow, red, blue, green. pink, unique, two-columns, fixed-width, threaded-comments, translation-ready, microformats
+*/
+
+/* Reset Browser Defaults */
+@import url( 'css/reset.css' );
+
+/* Apply base theme styles and colors */
+@import url( 'css/base.css' );
+
+/* Stylistic CSS Styles */
+@import url( 'css/screen.css' );
